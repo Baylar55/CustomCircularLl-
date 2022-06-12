@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\bin\Debug\net5.0\Custom-CircularLinkedList.exe
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\bin\Debug\net5.0\Custom-CircularLinkedList.deps.json
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\bin\Debug\net5.0\Custom-CircularLinkedList.runtimeconfig.json
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\bin\Debug\net5.0\Custom-CircularLinkedList.runtimeconfig.dev.json
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\bin\Debug\net5.0\Custom-CircularLinkedList.dll
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\bin\Debug\net5.0\ref\Custom-CircularLinkedList.dll
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\bin\Debug\net5.0\Custom-CircularLinkedList.pdb
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\obj\Debug\net5.0\Custom-CircularLinkedList.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\obj\Debug\net5.0\Custom-CircularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\obj\Debug\net5.0\Custom-CircularLinkedList.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\obj\Debug\net5.0\Custom-CircularLinkedList.AssemblyInfo.cs
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\obj\Debug\net5.0\Custom-CircularLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\obj\Debug\net5.0\Custom-CircularLinkedList.dll
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\obj\Debug\net5.0\ref\Custom-CircularLinkedList.dll
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\obj\Debug\net5.0\Custom-CircularLinkedList.pdb
+C:\Users\user\source\repos\Custom-CircularLinkedList\Custom-CircularLinkedList\obj\Debug\net5.0\Custom-CircularLinkedList.genruntimeconfig.cache

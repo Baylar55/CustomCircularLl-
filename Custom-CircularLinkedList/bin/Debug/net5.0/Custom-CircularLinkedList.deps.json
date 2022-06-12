@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Custom-CircularLinkedList/1.0.0": {
+        "runtime": {
+          "Custom-CircularLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Custom-CircularLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
